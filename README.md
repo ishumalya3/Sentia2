@@ -1,4 +1,8 @@
-# Sentia Project#
+# Resource group - SentiaRG_ResourceGroup01 #
+# Subscriptio ID - 91164383-e830-4a8d-bec4-05453e8e4736
+# Deployment - 10 Failed,38 Succeeded
+# Time estimated - 5 - 6 hours depending upon net speed and conncetion 
+# Time estimation  apprx - 5 hours to 6 hours depends upon the net speed and connection 
 # Project Description is a formally written declaration of the dummy project and its idea and context to explain the goals and objectives to be reached, the business need and problem to be addressed, potentials pitfalls and challenges, approaches and execution methods, reusibility ,robust, time consumption #
 # Cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. Service can be paid on its usage. Its cost eefective , manageable, application supported 
 # Microsoft azure link -https://portal.azure.com/#home
